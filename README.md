@@ -1,6 +1,6 @@
 # Hi there, I'm MaCarvalho07 <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG55ZmZhZWZ4amRuMWJ1dnhibDd1dGF0MmlyZGpiY2c3bHo3NjQ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5hVZKm6d0nWSIPXJv/giphy.gif" />
+<img align="right" alt="GIF" height="190px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG55ZmZhZWZ4amRuMWJ1dnhibDd1dGF0MmlyZGpiY2c3bHo3NjQ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5hVZKm6d0nWSIPXJv/giphy.gif" />
 
 ## I'm a Systems Analysis and Development Student  
 
