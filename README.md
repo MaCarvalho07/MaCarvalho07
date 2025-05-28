@@ -90,12 +90,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MaCarvalho07&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
----
 
-
-<p align="center"><i>"Transformando lógica em soluções. Um código por vez."</i> 🧠</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaCarvalho09&style=for-the-badge&color=000000&label=Visualizações&label_color=FFFFFF" alt="Visualizações do perfil" />
