@@ -75,6 +75,36 @@
   
 <br/>
 
+
+### 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaCarvalho07&bg_color=000000&color=666666&line=bbbbbb&point=ffffff&area=true&area_color=222222&hide_border=true&radius=12&locale=pt-br" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### ✨ Troféus GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaCarvalho07&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+
+<p align="center"><i>"Transformando lógica em soluções. Um código por vez."</i> 🧠</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaCarvalho09&style=for-the-badge&color=000000&label=Visualizações&label_color=FFFFFF" alt="Visualizações do perfil" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+</p>
+
 ---
 
 
