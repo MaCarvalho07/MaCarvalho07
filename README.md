@@ -4,12 +4,10 @@
 
 ## I'm a Systems Analysis and Development Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, html, css, etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 Currently working as **IT Support / Junior Developer**.  
+- 📚 Studying **Delphi and SQL Server** to improve backend and database skills.  
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.  
 - ⚡ Fun fact: I love to listen all types of music 🎱.
-
-
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -19,14 +17,10 @@
 
 ---
 
-
-
 ### Contact with me 📝
-
 
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-
 
 <br />
 
@@ -48,31 +42,17 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
-
-
-
-
-
-
 <br/>
 
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCarvalho07&theme=tokyonight" alt="mystreak"/>
-  </div
-      
-    
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCarvalho07&theme=tokyonight" alt="mystreak"/>
+</div>
 
-    
-  
 <br/>
-
 
 ### 📈 Gráfico de Contribuições
 
@@ -88,10 +68,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MaCarvalho07&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaCarvalho09&style=for-the-badge&color=000000&label=Visualizações&label_color=FFFFFF" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=MaCarvalho07&style=for-the-badge&color=000000&label=Visualizações&label_color=FFFFFF" alt="Visualizações do perfil" />
 </p>
 
 <p align="center">
@@ -99,11 +77,6 @@
 </p>
 
 ---
-
-
- 
-
-
 
 [website]: https://macarvalho07.github.io/Portifolio/
 [linkedin]: https://www.linkedin.com/in/matheus-carvalho-378771316/
